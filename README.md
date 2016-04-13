@@ -1,2 +1,2 @@
 # lps
-lightweight provenance service
+# lightweight provenance service
